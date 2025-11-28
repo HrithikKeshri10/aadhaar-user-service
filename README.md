@@ -55,7 +55,7 @@ Before running this application, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/HrithikKeshri10/aadhaar-user-service
 cd aadhaar-user-service
 ```
 
